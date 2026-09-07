@@ -53,3 +53,8 @@
 <p align="center"> <a href="https://github.com/UROOJKHANdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </p>
+  "replace_all": false,
+  "file_path": "/home/node/a0/workspace/74754246-1444-4ac1-9ad4-517c832b147b/workspace/outputs/README.md",
+  "old_string": "- ⚡ Fun fact: I love turning raw data into meaningful stories\n\n---\n\n### 🛠️ Tech Stack & Tools",
+  "new_string": "- ⚡ Fun fact: I love turning raw data into meaningful stories\n\n<p align=\"center\">\n  <img src=\"https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical\" alt=\"Random Dev Quote\" />\n</p>\n\n---\n\n### 🎯 Currently Learning\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/-Machine%20Learning-A97BFF?style=flat-square&logoColor=white\" />\n  <img src=\"https://img.shields.io/badge/-Deep%20Learning-00D9FF?style=flat-square&logoColor=white\" />\n  <img src=\"https://img.shields.io/badge/-Data%20Visualization-A97BFF?style=flat-square&logoColor=white\" />\n  <img src=\"https://img.shields.io/badge/-Statistics-00D9FF?style=flat-square&logoColor=white\" />\n</p>\n\n---\n\n### 🛠️ Tech Stack & Tools"
+}
